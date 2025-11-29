@@ -47,35 +47,8 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venushi0987&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venushi0987&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="500">
 </p>
 
----
-
-<h3 align="center">🔥 Streak Stats</h3>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=venushi0987&theme=dark&hide_border=true"/>
-</p>
-
----
-
-<h3 align="center">🐍 My GitHub Contribution Snake</h3>
-<p align="center">
-  <img src="https://github.com/venushi0987/venushi0987/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/venushi0987/venushi0987/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/venushi0987/venushi0987/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/venushi0987/venushi0987/blob/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
