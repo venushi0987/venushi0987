@@ -1,54 +1,91 @@
-<h1 align="center">Hi 👋, I'm Venushi Jayananda</h1>
-<h3 align="center">A University Student studying software development from Sri Lanka</h3>
+<h1 align="center">K.V.U. Jayananda</h1>
+<p align="center">
+  <b>Software Engineering Undergraduate At SLIIT</b>
+</p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=venushi0987&label=Profile%20views&color=0e75b6&style=flat" alt="venushi0987" /> 
+<p align="center">
+  <a href="https://github.com/venushi0987">
+    <img src="https://komarev.com/ghpvc/?username=venushi0987&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Make my first game**
+Profile Summary
 
-- 🌱 I’m currently learning **Software Engineering with Java, Python**
+I am an IT undergraduate at SLIIT with a strong foundation in **frontend development, backend development and structured problem-solving**.  
+I focus on building **scalable, maintainable systems** using modern technologies while continuously improving my skills in **AI and Machine Learning**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Blender-Dark.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-</p>
+---
+
+Technical Expertise
+
+### Backend Development
+- Java (Core + Advanced)
+- node.js
+- Spring Boot (REST API design, layered architecture)
+- Maven (Dependency & build management)
+
+### Programming & Problem Solving
+- Data Structures & Algorithms (ongoing practice)
+- Strong analytical and logical thinking approach
+
+### Tools & Environment
+- GitHub (version control & collaboration)
+- IntelliJ IDEA | VS Code
+
+### Currently Learning
+- JavaScript
+- Real-world system design concepts
+
+---
+
+## Featured Projects
+
+### Online Book Store Management System
+- Designed and developed a **Spring Boot backend system**
+- Implemented **RESTful APIs** for managing books, users, and transactions
+- Applied **clean architecture principles** for maintainability
+- Focused on real-world backend structure and scalability
+
+Repository: https://github.com/IT24103206/E-Booky_new_project.git
+---
+
+### Blood Donation Request System (Planned / In Progress)
+- Location-based blood request platform  
+- Focus on **real-time data handling & user coordination**
+- Planned features:
+  - Smart location detection  
+  - Emergency request handling  
+  - Donor matching system  
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="500">
-  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=venushi0987&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=venushi0987&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venushi0987&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Current Focus
+- Building **production-level backend projects**
+- Improving **system design and scalability knowledge**
+- Gaining **industry-level development experience**
+
+---
+
+## Contact
+- Email: venushijayananada@gmail.com  
+- LinkedIn: www.linkedin.com/in/venushi-jayananda-829b933a7
+
+---
+
+## Philosophy
+> "Consistency, structure, and continuous improvement create mastery."
