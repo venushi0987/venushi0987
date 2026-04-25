@@ -88,4 +88,4 @@ Repository: https://github.com/IT24103206/E-Booky_new_project.git
 ---
 
 ## Philosophy
-> "Consistency, structure, and continuous improvement create mastery."
+"Consistency, structure, and continuous improvement create mastery."
